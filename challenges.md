@@ -37,6 +37,9 @@ IF you want to go for it, start from [the beginning](https://www.freecodecamp.or
   - [Modify Array Data With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes)
 
 ## The Calculator	
+Model, View, Controller
+
+The State, The User Interface, and The Update Mechanism
 ### M1	Functions named, anonymous, invocation	
 
 - Function parameters, return
@@ -88,18 +91,21 @@ IF you want to go for it, start from [the beginning](https://www.freecodecamp.or
 - find, indexOf, splice, filter
 - [Nested Objects & Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays)
 ### M4	Ternaries	
+  - ternaries
   - JSON	
   - localStorage	
+  - Object.keys
+- Challenges (practicing for Arcade next week)
   - [Nested Arrays/Objects practice - Record Collection](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
+  - [Nested Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
+  - [Access Multi-Dimensional Arrays With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
 ## The Arcade	(no modules). Useful things to know...		
   - PBV/PBR
   - setTimeout/setInterval
   - data structures - arrays, objects
-    - [Nested Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
-    - [Access Multi-Dimensional Arrays With Indexes](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
-    - [Multi-Dimensional Arrays - Shopping List](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
-    - [Nesting For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)
-    - [Recursion](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
+  - [Multi-Dimensional Arrays - Shopping List](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
+  - [Nesting For Loops](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)
+  - [Recursion](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)
 ## User Hub	
 ### M1	Promises	
 		fetch	
